@@ -22,7 +22,7 @@
 #include <err.h>
 #include <wordexp.h>
 
-#define PORT "40060"  // the port users will be connecting to
+#define PORT "<ENTER PORT NUMBER>"  // the port users will be connecting to
 
 #define BACKLOG 10     // how many pending connections queue will hold
 
